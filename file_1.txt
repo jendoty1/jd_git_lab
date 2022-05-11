@@ -1,3 +1,4 @@
+New line
 This is line 1
 This is another line
 And my last line here
